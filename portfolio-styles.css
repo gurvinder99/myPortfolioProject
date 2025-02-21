@@ -111,3 +111,8 @@ img:hover {
     z-index: 1;
     transition: 1s ease-out all;
 }
+.form-group:hover {
+    box-shadow: 0 0 15px 5px #bb86fc;
+    transform: scale(1.05);
+    transition: 0.3s ease-in-out;
+}
