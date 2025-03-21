@@ -116,9 +116,3 @@ img:hover {
     transform: scale(1.05);
     transition: 0.5s ease-in-out;
 }
-
-body:hover {
-    cursor:pointer, auto;
-    box-shadow: 0 0 10px 2px #bb86fc;
-}
-
